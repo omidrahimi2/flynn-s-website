@@ -9,3 +9,7 @@ h1, {
 .navbar-brand img {width:150px}
 
 #footer{background-color:blue;}
+
+#lowerfooter {background-color:darkblue;}
+
+#lowerfooter i {font-size:60px;color:#fff}
